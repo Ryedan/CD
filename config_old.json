@@ -1,0 +1,31 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "vk1.a.iDyankAPVIb_Fd37UHHD2L43caRWU0tl9EhulwG8p6LuEuNMrPASqDkxj9PdDpEPqFEz-v0NJugcMFgvuu676bgrd5_rcRUIc4RiLAa9fnl9U-IpVL3rsrXgmHXVSguD-uZPos-jdeZX9Ex27qDnB-TG7-4rljTQxu9TXBV_B7GAE-ENsvC6zvyfGJan-mrgs66X9zKoYWofFyjmbK74Kw
+",
+				"group_id": "80197218",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1175181575483297872/h6T5IbVehqPjOr9EqEkZyz3Uy7_iv1CdSOWGD-Dl-H0qpYuuZwcLa1m8p2OlAXN_ECK9"
+				],
+				"username": "Captain diem [BOT]",
+				"avatar_url": "",
+				"content": "",
+				"color": "#aabbcc",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		}
+	],
+	"version_dont_modify_me": 5
+}

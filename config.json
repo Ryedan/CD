@@ -1,0 +1,135 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "vk1.a.Sp4YRAc_qhRNa8X-pLfwhQ_rGE1RW15e390WtJlTkLuSRA_KjI7_kBqVSQLMJZP6MZdpU5A6Y1IU8ann7Z4bxq53i1O73gFNuBs6GWJaSogKB6g6tM9aDugx5Xl97RpAdBIDPdHac1m4XfvS4_T5mYtUxr-KlZiLkODRY0rueB4Yd8jQAX3kyg60i617T5I-ye3oEcTmarbgt2bL2YCiUQ",
+				"group_id": "karlmienev",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 10
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1176285842155769866/Ph6BU8PU5SCkN7aDLySFcymgAfNMpo4ZyDNDNwf8G5wa0dMobBtJEazbeSNuUy_0UvV4"
+				],
+				"thread_id": "1176272818275627160",
+				"username": "League of Legends",
+				"avatar_url": "https://cdn.discordapp.com/attachments/1174830834931474594/1176285283797454938/league-of-legends-icon-10.jpg?ex=656e5009&is=655bdb09&hm=ef769679e90d095f9c010b72b1555676d98183bdc73fbc960af3ce26fa41a70c&",
+				"content": "Новый пост! <@&1025128738721120296>",
+				"color": "#00CCCC",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		},
+		{
+			"vk": {
+				"token": "vk1.a.Sp4YRAc_qhRNa8X-pLfwhQ_rGE1RW15e390WtJlTkLuSRA_KjI7_kBqVSQLMJZP6MZdpU5A6Y1IU8ann7Z4bxq53i1O73gFNuBs6GWJaSogKB6g6tM9aDugx5Xl97RpAdBIDPdHac1m4XfvS4_T5mYtUxr-KlZiLkODRY0rueB4Yd8jQAX3kyg60i617T5I-ye3oEcTmarbgt2bL2YCiUQ",
+				"group_id": "overfire",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 10
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1175883864032428054/wAllBq7v7fIRnt3dk3ziuJW4p7SuUYFlqpSNOa-Vfuw-Bp32X8oSIyj4V2swJvTPW_JX"
+				],
+				"thread_id": "1176230847846809632",
+				"username": "Overwatch",
+				"avatar_url": "https://cdn.discordapp.com/attachments/1174830834931474594/1176285297546362940/games-overwatch-icon-2048x2048-tjgxf3zw.png?ex=656e500d&is=655bdb0d&hm=a35e3807df7d8dffd87606e05c0e9c72e20d7082c9700f14bb5eac37158a4a84&",
+				"content": "Новый пост! <@&1025128808426242068>",
+				"color": "#00CCCC",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		},
+		{
+			"vk": {
+				"token": "vk1.a.Sp4YRAc_qhRNa8X-pLfwhQ_rGE1RW15e390WtJlTkLuSRA_KjI7_kBqVSQLMJZP6MZdpU5A6Y1IU8ann7Z4bxq53i1O73gFNuBs6GWJaSogKB6g6tM9aDugx5Xl97RpAdBIDPdHac1m4XfvS4_T5mYtUxr-KlZiLkODRY0rueB4Yd8jQAX3kyg60i617T5I-ye3oEcTmarbgt2bL2YCiUQ",
+				"group_id": "valorant",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 10
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1176287756750684241/y1tJyJBKqKL0nRbVNX3h6oeDhYhZKu6I0IkyD9MJwhm-uYQJDaA4EwNkUHFeOHUuojvR"
+				],
+				"thread_id": "1176273958090322030",
+				"username": "Valorant",
+				"avatar_url": "https://cdn.discordapp.com/attachments/1174830834931474594/1176285264591732736/games-valorant-icon-512x512-kqz6q7jw.png?ex=656e5005&is=655bdb05&hm=48c3885827cda2c9bdc384d68c72e02b75fab2deff724c3de197fc352a6c3c0d&",
+				"content": "Новый пост! <@&1025128684304207934>",
+				"color": "#00CCCC",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		},
+		{
+			"vk": {
+				"token": "vk1.a.Sp4YRAc_qhRNa8X-pLfwhQ_rGE1RW15e390WtJlTkLuSRA_KjI7_kBqVSQLMJZP6MZdpU5A6Y1IU8ann7Z4bxq53i1O73gFNuBs6GWJaSogKB6g6tM9aDugx5Xl97RpAdBIDPdHac1m4XfvS4_T5mYtUxr-KlZiLkODRY0rueB4Yd8jQAX3kyg60i617T5I-ye3oEcTmarbgt2bL2YCiUQ",
+				"group_id": "huntshowdownofficial",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 10
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1176542673788735558/Un3wI2yGHk5uDIpQl29h9IX8W9sDQytSWM5XNb79n6NJFkbxqsfmMYEE-pum3IyVJocO"
+				],
+				"thread_id": "1176541351899303946",
+				"username": "Hunt: Showdown",
+				"avatar_url": "https://cdn.discordapp.com/attachments/1174830834931474594/1176541209422987405/xu6ktlvikv761.png?ex=656f3e63&is=655cc963&hm=d346ee099b3f139f160831dec7e763480b6de4f7ffd279d13f0bdf914928372e&",
+				"content": "Новый пост! <@&1025130197869146162>",
+				"color": "#00CCCC",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		},
+	    {
+			"vk": {
+				"token": "vk1.a.Sp4YRAc_qhRNa8X-pLfwhQ_rGE1RW15e390WtJlTkLuSRA_KjI7_kBqVSQLMJZP6MZdpU5A6Y1IU8ann7Z4bxq53i1O73gFNuBs6GWJaSogKB6g6tM9aDugx5Xl97RpAdBIDPdHac1m4XfvS4_T5mYtUxr-KlZiLkODRY0rueB4Yd8jQAX3kyg60i617T5I-ye3oEcTmarbgt2bL2YCiUQ",
+				"group_id": "deadbydaylight_ru",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"interval": 10
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/1176542824062267463/113bVYx_2sSWWMPQCgsqMZm_NCoRtATm5HFvn8zK8IY1_pEgbYrDkoXPvrf-4TFMYFKv"
+				],
+				"thread_id": "1176542171269173338",
+				"username": "Dead by Daylight",
+				"avatar_url": "https://cdn.discordapp.com/attachments/1174830834931474594/1176541895523061791/pngwing.com.png?ex=656f3f06&is=655cca06&hm=2495a0a73582718fdbdb5510aed63413f06dc504a2fcbc161397fc7fa8c81f7a&",
+				"content": "Новый пост! <@&1025129683337093192>",
+				"color": "#00CCCC",
+				"author": true,
+				"copyright": true,
+				"date": true,
+				"exclude_content": []
+			}
+		}
+	],
+	"version_dont_modify_me": 5
+}
